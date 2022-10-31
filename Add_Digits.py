@@ -9,4 +9,3 @@ while n>0:
         sum=0
     if (n==0 and sum<10):
         print(sum)
-    
